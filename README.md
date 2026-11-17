@@ -1,2 +1,2 @@
 # Aqua-Relief
-Mini Project for Electronic and Circuit
+Mini Project for Electronic Circuit
